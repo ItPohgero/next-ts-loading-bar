@@ -1,0 +1,30 @@
+{
+  "name": "next-ts-loading-bar",
+  "version": "1.0.0",
+  "description": "itpohgero next typescript loading bar",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItPohgero/next-ts-loading-bar.git"
+  },
+  "keywords": [
+    "itpohgero",
+    "next",
+    "ts",
+    "progress-bar"
+  ],
+  "author": "wahyu agus arifin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItPohgero/next-ts-loading-bar/issues"
+  },
+  "homepage": "https://github.com/ItPohgero/next-ts-loading-bar#readme",
+  "dependencies": {
+    "nprogress": "^0.2.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0"
+  }
+}
